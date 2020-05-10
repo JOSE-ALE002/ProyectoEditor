@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>aboutqt.png</file>
+        <file>alineacion-a-la-derecha.png</file>
+        <file>alineado-a-la-izquierda.png</file>
+        <file>bold.png</file>
+        <file>changefont.png</file>
+        <file>colorwheel.png</file>
+        <file>Copy.png</file>
+        <file>Cut.png</file>
+        <file>firefox.png</file>
+        <file>fontdialog.png</file>
+        <file>Guardar.png</file>
+        <file>Info.png</file>
+        <file>italic.png</file>
+        <file>lupa-buscadora.png</file>
+        <file>New.png</file>
+        <file>normal.png</file>
+        <file>Nuevo.png</file>
+        <file>Open.png</file>
+        <file>parrafo-centrado.png</file>
+        <file>Paste.png</file>
+        <file>redo.png</file>
+        <file>texto-justificado.png</file>
+        <file>underline.png</file>
+        <file>undo_256.png</file>
+    </qresource>
+</RCC>
